@@ -2,3 +2,5 @@
 https://github.com/artyommalygin/hw6/blob/master/github.png
 
 https://github.com/artyommalygin/hw6/blob/master/github2.png
+
+https://github.com/artyommalygin/hw6/blob/master/github3.png
