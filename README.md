@@ -9,3 +9,4 @@ https://github.com/artyommalygin/hw6/blob/master/github3.png
 https://github.com/artyommalygin/hw6/blob/master/github4.png
 
 https://github.com/artyommalygin/hw6/blob/master/github5.png
+очевидно, что дополнения, выделенные белым, являются употребимыми как с "exist", так и с "live" : "exist today" - "live today", в то время как только "live" может образовать словосочетание "live life" и только "exist" словосочетание "exist legislation"
